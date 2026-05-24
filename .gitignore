@@ -1,0 +1,10 @@
+# Données volumineuses
+volumes/
+
+# Fichiers temporaires
+*.log
+*.tmp
+.DS_Store
+
+# Docker
+test.sh
